@@ -4,4 +4,4 @@ This repository will hold all my HTML and CSS project from my Tech Academy cours
 
 ## HTML Project 1
 
-In this project I kearned the basic structure of HTML documents. I also learned how to connect multiple HTML documents using <a> links and a <nav> bar. In my Dog_Video.html I used an embeded video. 
+In this project I kearned the basic structure of HTML documents. I also learned how to connect multiple HTML documents using `<a>` links and a `<nav>` bar. In my [](url)Dog_Video.html I used an embeded video. 
