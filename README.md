@@ -5,3 +5,8 @@ This repository will hold all my HTML and CSS project from my Tech Academy cours
 ## [HTML Project 1](./Html_P1)
 
 In this project I learned the basic structure of HTML documents. I also learned how to connect multiple HTML documents using `<a>` links and a `<nav>` bar. In my [Dog_Video.html](./Html_P1/HTML/Dog_Video.html) I used an embeded video.
+
+## [HTML Project 2](./Basic_HTML_and_JavaScript_1)
+
+In this project I learned how to uses `<font>` tag in HTML, as well as some of its different attributes like face, size and color. `<font color = "" face = "" size = "">`
+I also learned some basic [JavaScript](./Basic_HTML_and_JavaScript_1/Basic_Javascript_1.js) like how to make a function that changed the text color to green when a user pushes a button, or how to make alert pop up. in adition to all of that I learned how to utilize the tags `<b>`(makes things bold), `<i>`(italisizes), and `<u>`(underlines).
