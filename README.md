@@ -10,3 +10,5 @@ In this project I learned the basic structure of HTML documents. I also learned 
 
 In this project I learned how to uses `<font>` tag in HTML, as well as some of its different attributes like face, size and color. `<font color = "" face = "" size = "">`
 I also learned some basic [JavaScript](./Basic_HTML_and_JavaScript_1/Basic_Javascript_1.js) like how to make a function that changed the text color to green when a user pushes a button, or how to make alert pop up. in adition to all of that I learned how to utilize the tags `<b>`(makes things bold), `<i>`(italisizes), and `<u>`(underlines).
+
+## [HTML and CSS](./Basic_HTML_and_CSS)
