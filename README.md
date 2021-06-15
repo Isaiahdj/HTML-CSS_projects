@@ -12,3 +12,5 @@ In this project I learned how to uses `<font>` tag in HTML, as well as some of i
 I also learned some basic [JavaScript](./Basic_HTML_and_JavaScript_1/Basic_Javascript_1.js) like how to make a function that changed the text color to green when a user pushes a button, or how to make alert pop up. in adition to all of that I learned how to utilize the tags `<b>`(makes things bold), `<i>`(italisizes), and `<u>`(underlines).
 
 ## [HTML and CSS](./Basic_HTML_and_CSS)
+
+In this project I learned how to use the basics of Cascading Style Sheets (CSS). I Learned How to link my CSS to my HTML page to add style to it. I also learned the diference between the two [HTML Lists](./Basic_HTML_and_CSS/HTML_Lists.html) `<ol>` and `<ul>`. I also learned how to make [HTML Tables](./Basic_HTML_and_CSS/HTML_Table.html) and how to style them with [CSS](./Basic_HTML_and_CSS/CSS/CSS_Table.css). That was just a few things i learned in this asignment as well as `text-shadow: ;`. 
