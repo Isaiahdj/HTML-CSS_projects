@@ -1,0 +1,17 @@
+table {
+    border: 1px solid aquamarine;
+}
+td:hover {
+    background-color: blueviolet;
+    color: chartreuse;
+}
+tr, th {
+    background-color: crimson;
+    color: gray;
+}
+tr, td {
+    background-color: coral;
+    color: cyan;
+}footer{
+    text-shadow: 1px 1px red;
+}
