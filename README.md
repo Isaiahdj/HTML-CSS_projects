@@ -19,10 +19,10 @@ In this project I learned how to use the basics of Cascading Style Sheets (CSS).
 
 This project is an example of a Space station website. In this project i utilize a nave bar, links, and forms. in adittion to the html it is styled with CSS. This site uses several images as thumbnails that have a text overlay.
 
-##[One Page Site](./One_Page_Website)
+## [One Page Site](./One_Page_Website)
 
 This project is very similar to the [Space Station](./Space_Station) but instead it is more geared towards pokemon and has some style changes.
 
-##[Movie Theater](Movie_Theater_BS)
+## [Movie Theater](Movie_Theater_BS)
 
 In this project I was tasked to utilize bootstrap to make a website. So I used bootstrap grid system to make a basic movie theater site, that includes Cards, Buttons and a nav bar.
